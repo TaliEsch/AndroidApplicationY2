@@ -1,0 +1,45 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/off_white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/dark_grey</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/off_white</item>
+        <item name="colorSecondaryVariant">@color/grey</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/ver_dark_grey</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/off_white</item>
+        <item name="android:listDivider">@drawable/divider_dark</item>
+
+        <item name="colorTertiary">@color/off_white</item>
+        <item name="colorOnTertiary">@color/off_white</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.UnitViewer" parent="AppTheme">
+        <item name="backgroundColor">@color/light_grey</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/ver_dark_grey</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="AppTheme.UnitViewerGeneralStats" parent="AppTheme.UnitViewer">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

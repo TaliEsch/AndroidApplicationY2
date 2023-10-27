@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">WAR-CO</string>
+
+    <string name="title_activity_main_drawer">MainDrawer</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="page_1_title">Search units</string>
+    <string name="page_2_title">Create new deck</string>
+    <string name="page_3_title">Decode your deck</string>
+    <string name="page_4_title">View the maps</string>
+    <string name="drawer_header_title">EPIC NAVBAR</string>
+
+    <string name="map_1_title">Black Forest</string>
+    <string name="map_2_title">Two Lakes</string>
+    <string name="map_3_title">Vertigo</string>
+    <string name="map_4_title">Geisa</string>
+    <string name="map_5_title">Chemical</string>
+    <string name="map_6_title">Ripple</string>
+    <string name="map_7_title">Death Row</string>
+    <string name="map_8_title">Loop</string>
+
+    <string name="deck_decoder_title">Deck Decoder</string>
+    <string name="submit">Submit</string>
+    <string name="enter_code">Please enter a deck code</string>
+    <string name="demo_deck">Demo Deck</string>
+
+    <!-- Strings used for the splash screen -->
+    <string name="splash_screen_title">Welcome to WAR-CO</string>
+    <string name="splash_screen_description">The best companion app for WARNO</string>
+    <string name="splash_screen_button">View the units</string>
+    <string name="splash_screen_button2">Decode your deck</string>
+    <string name="splash_screen_button3">View The Maps</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_map_viewer">MapViewer</string>
+    <string name="description">Description</string>
+    <string name="placeholder">Placeholder</string>
+
+    <!-- Strings used for the unit viewer -->
+    <string name="armour_profile">Armour Profile</string>
+    <string name="armour_front">Front</string>
+    <string name="armour_side">Side</string>
+    <string name="armour_top">Top</string>
+    <string name="armour_rear">Rear</string>
+    <string name="general_stats">General Stats</string>
+    <string name="max_damage">Max Damage</string>
+    <string name="optics">Optics</string>
+    <string name="stealth">Stealth</string>
+    <string name="amphibious">Amphibious</string>
+    <string name="road_speed">Road Speed</string>
+    <string name="speed">Speed</string>
+    <string name="adv_deploy">Adv. Deploy</string>
+    <string name="fuel">Fuel</string>
+    <string name="smoke">Smoke</string>
+    <string name="weaponry">Weaponry</string>
+    <string name="supply">Supply</string>
+    <string name="ecm">ECM</string>
+    <string name="air_optics">Air Optics</string>
+    <string name="travel_time">Travel Time</string>
+    <string name="agility">Agility</string>
+
+    <!-- Strings used for the unit viewer adapter -->
+    <string name="weapon_name">Weapon Name</string>
+    <string name="trait">Trait</string>
+    <string name="weapon_damage">Weapon Damage</string>
+    <string name="weapon_penetration">Weapon Penetration</string>
+    <string name="weapon_suppression">Weapon Suppression</string>
+    <string name="weapon_he">Weapon HE</string>
+    <string name="target_ranges">Target Ranges</string>
+    <string name="ground_target">Ground Target</string>
+    <string name="helicopter">Helicopter</string>
+    <string name="aircraft">Aircraft</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="weapon_static">Static</string>
+    <string name="weapon_motion">Motion</string>
+    <string name="weapon_rof">Rate of Fire</string>
+    <string name="aiming_time">Aiming Time</string>
+    <string name="reload_time">Reload Time</string>
+    <string name="salvo_length">Salvo Length</string>
+    <string name="supply_cost">Supply Cost</string>
+    <string name="unit_icon">Unit Icon</string>
+
+    <!-- Strings used for the map viewer -->
+    <string name="map_description">This is a map</string>
+
+</resources>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">프로젝트</string>
+    <string name="title_activity_main_drawer">메인 서랍</string>
+    <string name="first_fragment_label">첫 번째 프래그먼트</string>
+    <string name="second_fragment_label">두 번째 프래그먼트</string>
+    <string name="next">다음</string>
+    <string name="previous">이전</string>
+
+    <string name="page_1_title">유닛 검색</string>
+    <string name="page_2_title">새 덱 만들기</string>
+    <string name="page_3_title">덱 해독하기</string>
+    <string name="page_4_title">지도 보기</string>
+    <string name="drawer_header_title">매력적인 내비게이션 바</string>
+
+
+    <string name="map_1_title">블랙 포레스트</string>
+    <string name="map_2_title">두 개의 호수</string>
+    <string name="map_3_title">버티고</string>
+    <string name="map_4_title">게이사</string>
+    <string name="map_5_title">케미컬</string>
+    <string name="map_6_title">리플</string>
+    <string name="map_7_title">죽음의 복도</string>
+    <string name="map_8_title">루프</string>
+
+
+    <string name="hello_blank_fragment">안녕하세요 빈 프래그먼트입니다</string>
+    <string name="title_activity_main2">메인 액티비티2</string>
+    <string name="title_activity_map_viewer">지도 뷰어</string>
+    <string name="description">설명</string>
+    <string name="placeholder">플레이스홀더</string>
+
+    <!-- Strings used for the unit viewer -->
+    <string name="armour_profile">장갑 프로필</string>
+    <string name="armour_front">앞면</string>
+    <string name="armour_side">측면</string>
+    <string name="armour_top">상단</string>
+    <string name="armour_rear">후면</string>
+    <string name="general_stats">일반 통계</string>
+    <string name="max_damage">최대 대미지</string>
+    <string name="optics">광학기기</string>
+    <string name="stealth">은폐성</string>
+    <string name="amphibious">양용의</string>
+    <string name="road_speed">도로 속도</string>
+    <string name="speed">속도</string>
+    <string name="adv_deploy">고급 배치</string>
+    <string name="fuel">연료</string>
+    <string name="smoke">연막탄</string>
+    <string name="weaponry">무기</string>
+    <string name="supply">보급품</string>
+    <string name="ecm">전자 대응 수단</string>
+    <string name="air_optics">항공 광학</string>
+    <string name="travel_time">이동 시간</string>
+    <string name="agility">민첩성</string>
+
+    <!-- Strings used for the unit viewer adapter -->
+    <string name="weapon_name">무기 이름</string>
+    <string name="trait">특징</string>
+    <string name="weapon_damage">무기 대미지</string>
+    <string name="weapon_penetration">무기 관통력</string>
+    <string name="weapon_suppression">무기 억제</string>
+    <string name="weapon_he">무기 폭발</string>
+    <string name="target_ranges">목표 범위</string>
+    <string name="ground_target">지상 목표</string>
+    <string name="helicopter">헬리콥터</string>
+    <string name="aircraft">비행기</string>
+    <string name="accuracy">정확도</string>
+    <string name="weapon_static">정지</string>
+    <string name="weapon_motion">이동</string>
+    <string name="weapon_rof">사격 속도</string>
+    <string name="aiming_time">조준 시간</string>
+    <string name="reload_time">재장전 시간</string>
+    <string name="salvo_length">일제 사격 수</string>
+    <string name="supply_cost">보급 비용</string>
+    <string name="unit_icon">단위 아이콘</string>
+
+    <!-- Strings used for the map viewer -->
+    <string name="map_description">지도입니다</string>
+
+</resources>

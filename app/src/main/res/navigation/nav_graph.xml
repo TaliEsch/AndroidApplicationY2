@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashScreen">
+
+    <fragment
+        android:id="@+id/searchUnits"
+        android:name="com.c21054601.project.fragments.SearchUnits"
+        android:label="SearchUnits" >
+        <action
+            android:id="@+id/action_searchUnits_to_unitViewer"
+            app:destination="@id/unitViewer" />
+    </fragment>
+    <fragment
+        android:id="@+id/unitViewer"
+        android:name="com.c21054601.project.fragments.UnitViewer"
+        android:label="fragment_unit_viewer"
+        tools:layout="@layout/fragment_unit_viewer" />
+    <fragment
+        android:id="@+id/mapList"
+        android:name="com.c21054601.project.fragments.MapList"
+        android:label="fragment_map_list"
+        tools:layout="@layout/fragment_map_list" >
+        <action
+            android:id="@+id/action_mapList_to_mapViewer"
+            app:destination="@id/mapViewer" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapViewer"
+        android:name="com.c21054601.project.fragments.MapViewer"
+        android:label="fragment_map_viewer"
+        tools:layout="@layout/fragment_map_viewer" />
+    <fragment
+        android:id="@+id/splashScreen"
+        android:name="com.c21054601.project.fragments.SplashScreen"
+        android:label="fragment_splash_screen"
+        tools:layout="@layout/fragment_splash_screen" >
+        <action
+            android:id="@+id/action_splashScreen_to_searchUnits"
+            app:destination="@id/searchUnits" />
+        <action
+            android:id="@+id/action_splashScreen_to_mapList"
+            app:destination="@id/mapList" />
+        <action
+            android:id="@+id/action_splashScreen_to_deckDecoder"
+            app:destination="@id/deckDecoder" />
+    </fragment>
+    <fragment
+        android:id="@+id/deckDecoder"
+        android:name="com.c21054601.project.fragments.DeckDecoder"
+        android:label="fragment_deck_decoder"
+        tools:layout="@layout/fragment_deck_decoder" />
+</navigation>

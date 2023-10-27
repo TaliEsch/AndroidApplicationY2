@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="title_activity_main_drawer">Tiroir principal</string>
+    <string name="first_fragment_label">Premier fragment</string>
+    <string name="second_fragment_label">Deuxième fragment</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédent</string>
+
+    <string name="page_1_title">Recherche d\'unités</string>
+    <string name="page_2_title">Créer un nouveau deck</string>
+    <string name="page_3_title">Décoder votre deck</string>
+    <string name="page_4_title">Voir les cartes</string>
+    <string name="drawer_header_title">BARRE DE NAVIGATION ÉPOUSTOUFLANTE</string>
+
+    <string name="map_1_title">Forêt Noire</string>
+    <string name="map_2_title">Deux Lacs</string>
+    <string name="map_3_title">Vertige</string>
+    <string name="map_4_title">Geisa</string>
+    <string name="map_5_title">Chimique</string>
+    <string name="map_6_title">Ondulation</string>
+    <string name="map_7_title">Couloir de la Mort</string>
+    <string name="map_8_title">Boucle</string>
+
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_map_viewer">Visualiseur de carte</string>
+    <string name="description">Description</string>
+    <string name="placeholder">Espace réservé</string>
+
+    <!-- Strings used for the unit viewer -->
+    <string name="armour_profile">Profil de blindage</string>
+    <string name="armour_front">Avant</string>
+    <string name="armour_side">Côté</string>
+    <string name="armour_top">Haut</string>
+    <string name="armour_rear">Arrière</string>
+    <string name="general_stats">Statistiques générales</string>
+    <string name="max_damage">Dommages max</string>
+    <string name="optics">Optique</string>
+    <string name="stealth">Furtivité</string>
+    <string name="amphibious">Amphibie</string>
+    <string name="road_speed">Vitesse sur route</string>
+    <string name="speed">Vitesse</string>
+    <string name="adv_deploy">Déploiement avancé</string>
+    <string name="fuel">Carburant</string>
+    <string name="smoke">Fumée</string>
+    <string name="weaponry">Armement</string>
+    <string name="supply">Fourniture</string>
+    <string name="ecm">CME</string>
+    <string name="air_optics">Optiques aériennes</string>
+    <string name="travel_time">Temps de trajet</string>
+    <string name="agility">Agilité</string>
+
+    <!-- Strings used for the unit viewer adapter -->
+    <string name="weapon_name">Nom de l\'arme</string>
+    <string name="trait">Trait</string>
+    <string name="weapon_damage">Dommages de l\'arme</string>
+    <string name="weapon_penetration">Pénétration de l\'arme</string>
+    <string name="weapon_suppression">Suppression de l\'arme</string>
+    <string name="weapon_he">Munitions explosives</string>
+    <string name="target_ranges">Portées de la cible</string>
+    <string name="ground_target">Cible terrestre</string>
+    <string name="helicopter">Hélicoptère</string>
+    <string name="aircraft">Avion</string>
+    <string name="accuracy">Précision</string>
+    <string name="weapon_static">Statique</string>
+    <string name="weapon_motion">Mouvement</string>
+    <string name="weapon_rof">Cadence de tir</string>
+    <string name="aiming_time">Temps de visée</string>
+    <string name="reload_time">Temps de recharge</string>
+    <string name="salvo_length">Longueur de salve</string>
+    <string name="supply_cost">Coût en fournitures</string>
+    <string name="unit_icon">Icône d\'unité</string>
+
+    <!-- Strings used for the map viewer -->
+    <string name="map_description">Ceci est une carte</string>
+</resources>
